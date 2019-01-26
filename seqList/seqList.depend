@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521276398 source:e:\oj\seqlist\main.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1522313728 source:e:\oj\linklist\main.cpp
+	<iostream>
+
+1521475397 source:e:\oj\linklist\linklist.cpp
+	<iostream>
+	"linkList.h"
+
+1521475617 e:\oj\linklist\linklist.h
+	<stddef.h>
+
+1521475617 source:e:\oj\linklist\linklist.h
+	<stddef.h>
+
